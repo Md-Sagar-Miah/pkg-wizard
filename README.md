@@ -9,56 +9,78 @@ Save time setting up your projects with curated stacks or manual package selecti
 
 ## Features
 
-- Choose from preset project stacks like React, Node API, or Fullstack
-- Search and select individual npm packages interactively
-- Preview packages included in stacks before installation
-- Confirm before installing packages
-- Supports installing multiple packages with a single command
+- ✅ Supports installing multiple packages with a single command
+- ✅ Choose from preset project stacks like React, Node API, or Fullstack
+- ✅ Search and select individual npm packages interactively
+- ✅ Preview packages included in stacks before installation
+- ✅ Confirm before installing packages
 
 ---
 
-## Installation
+## 🚀 Installation
 
-Clone the repo and link it globally (for local development):
+### Install globally via npm:
+
+```bash
+npm install -g pkg-wizard
+```
+
+### Clone the repo and link it globally (for local development):
 
 ```bash
 git clone https://github.com/Md-Sagar-Miah/pkg-wizard.git
 cd pkg-wizard
 npm install
 npm link
+```
 
-After linking, run pkg-wizard anywhere in your terminal:
+### After linking, run pkg-wizard anywhere in your terminal:
 
+```bash
 pkg-wizard
+```
 
+---
 
-Usage
-Run pkg-wizard command
+### 🧪Usage
 
-Choose a preset stack or select packages manually
+Run the CLI:
 
-If manual, search for packages and add them one by one
+```bash
+pkg-wizard
+```
 
-Select << Finish selection >> when done
+-Choose a preset stack or go for manual package selection
 
-Confirm installation
+-Use arrow keys to navigate and press Space to select packages
 
-The CLI installs selected packages into your current directory
+-Select << Finish selection >> when you're done
 
-Example Stacks
+-Confirm the installation — your selected packages will be installed in the current directory
+
+---
+
+📦 Example Stacks
 React Stack: React, React DOM, Vite, Axios, Zustand, ESLint, Prettier
 
 Node API Stack: Express, Cors, Dotenv, Mongoose, TypeScript, ESLint
 
 Fullstack App: Next.js, TailwindCSS, Prisma, React Hook Form, ESLint, TypeScript
 
-Contributing
+---
+
+🤝Contributing
 Contributions and feature requests are welcome!
 Feel free to open issues or submit pull requests.
 
-License
-MIT License © Md. Sagar Miah
+---
 
-Contact
-Email: sagar.sa2065@gmail.com
-```
+📄License
+MIT License © [Md. Sagar Miah](https://github.com/Md-Sagar-Miah) • [Email Me](mailto:sagar.sa2065@gmail.com)
+
+---
+
+📬 Contact
+📧 Email: sagar.sa2065@gmail.com
+🌐 GitHub: github.com/Md-Sagar-Miah
+📦 NPM: npmjs.com/package/pkg-wizard

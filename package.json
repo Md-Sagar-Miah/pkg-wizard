@@ -1,6 +1,6 @@
 {
   "name": "pkg-wizard",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "type": "module",
   "description": "A CLI tool to install common developer packages interactively",
   "main": "index.mjs",

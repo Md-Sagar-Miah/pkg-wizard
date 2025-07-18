@@ -50,37 +50,43 @@ Run the CLI:
 pkg-wizard
 ```
 
--Choose a preset stack or go for manual package selection
+- Choose a preset stack or go for manual package selection
 
--Use arrow keys to navigate and press Space to select packages
+- Use arrow keys to navigate and press Space to select packages
 
--Select << Finish selection >> when you're done
+- Select << Finish selection >> when you're done
 
--Confirm the installation — your selected packages will be installed in the current directory
-
----
-
-📦 Example Stacks
-React Stack: React, React DOM, Vite, Axios, Zustand, ESLint, Prettier
-
-Node API Stack: Express, Cors, Dotenv, Mongoose, TypeScript, ESLint
-
-Fullstack App: Next.js, TailwindCSS, Prisma, React Hook Form, ESLint, TypeScript
+- Confirm the installation — your selected packages will be installed in the current directory
 
 ---
 
-🤝Contributing
+### 📦 Example Stacks
+
+- React Stack: React, React DOM, Vite, Axios, Zustand, ESLint, Prettier
+
+- Node API Stack: Express, Cors, Dotenv, Mongoose, TypeScript, ESLint
+
+- Fullstack App: Next.js, TailwindCSS, Prisma, React Hook Form, ESLint, TypeScript
+
+---
+
+### 🤝Contributing
+
 Contributions and feature requests are welcome!
 Feel free to open issues or submit pull requests.
 
 ---
 
-📄License
+### 📄License
+
 MIT License © [Md. Sagar Miah](https://github.com/Md-Sagar-Miah) • [Email Me](mailto:sagar.sa2065@gmail.com)
 
 ---
 
-📬 Contact
+## 📬 Contact
+
 📧 Email: sagar.sa2065@gmail.com
+
 🌐 GitHub: github.com/Md-Sagar-Miah
+
 📦 NPM: npmjs.com/package/pkg-wizard
